@@ -22,4 +22,7 @@ Follow these steps to run the project locally:
    ```
    ```bash
    yarn install
-3. Navigate to http://localhost:5173
+3. Run the local dev
+   ```bash
+   npm run dev
+5. Navigate to http://localhost:5173
