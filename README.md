@@ -12,7 +12,7 @@ Follow these steps to run the project locally:
 
 ### Steps to Run
 
-1. Clone the Repository**:
+1. Clone the Repository:
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
    cd todo-list-app
