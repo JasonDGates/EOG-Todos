@@ -16,7 +16,9 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
    cd todo-list-app
-2. **Install modules
-  with npm
+2. **Install modules with npm or yarn
    ```bash
    npm install
+   ```
+   ```bash
+   yarn install
